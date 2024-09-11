@@ -1,4 +1,4 @@
-![Research](https://www.rsch.io/logos/logo-rsch-black.png) 
+![Research](https://github.com/rsch-io/.github/blob/main/images/open-at-research.png) 
 
 ## Get Involved
 
